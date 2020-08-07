@@ -1,2 +1,7 @@
-# Online-Movie-Ticket-Booking
-Online Movie Ticket Booking System is a website to provide the customers facility to book tickets for a movie online and to gather information about the movies and theaters. Customer needs to register at the site to book tickets to the movie.
+# MEAN Stack Movie Ticket Booking System v2.0.0
+## Installation
+1. Download the repository
+2. Install npm modules: `npm install`
+3. Install bower dependencies `bower install`
+4. Start up the server: `node server.js`
+5. View in browser at http://localhost:3000
